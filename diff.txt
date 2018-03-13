@@ -1,0 +1,3 @@
+diff does check repository with staging  file
+diff master checks repository with actual file
+git reset unstages files
